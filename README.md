@@ -1,6 +1,6 @@
 # File Preview Interface - Directus extension
 
-A file freview interface.
+A file preview interface.
 
 ## Installation
 
@@ -30,4 +30,3 @@ npm run build
 ```
 
 Then use `index.js` in your custom `/extensions/interfaces` directory or in whatever you want.
-
