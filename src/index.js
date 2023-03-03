@@ -3,8 +3,7 @@ import Interface from "./interface.vue";
 export default {
   id: "file-preview",
   name: "File Preview",
-  description:
-    "Preview single file for doc, docx, pdf, jpg, png . Uses a static access token to fetch the file.",
+  description: "Preview single file for doc, docx, pdf, pptx, ppt, mp4",
   icon: "text_fields",
   component: Interface,
   types: ["string"],
